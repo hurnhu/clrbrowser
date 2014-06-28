@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\bin\Release\app.manifest
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\bin\Release\clrbrowser_installer.exe.config
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\bin\Release\clrbrowser_installer.exe
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\bin\Release\clrbrowser_installer.pdb
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\obj\Release\clrbrowser_installer.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\obj\Release\clrbrowser_installer.Form1.resources
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\obj\Release\clrbrowser_installer.Properties.Resources.resources
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\obj\Release\clrbrowser_installer.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\obj\Release\clrbrowser_installer.exe
+C:\Users\Mike\Documents\visual studio 2013\Projects\nightdev\clrbrowser_installer\obj\Release\clrbrowser_installer.pdb

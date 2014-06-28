@@ -1,0 +1,12 @@
+c:\users\mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\nightdev.exe.config
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\bin\Debug\nightdev.exe
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\bin\Debug\nightdev.pdb
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\obj\Debug\nightdev.csprojResolveAssemblyReference.cache
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\obj\Debug\nightdev.Form1.resources
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\obj\Debug\nightdev.Properties.Resources.resources
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\obj\Debug\nightdev.csproj.GenerateResource.Cache
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\obj\Debug\nightdev.exe
+c:\Users\Mike\Documents\Visual Studio 2013\Projects\nightdev\nightdev\obj\Debug\nightdev.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\app.manifest
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\clrbrowser.exe.config
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\clrbrowser_installer.exe.config

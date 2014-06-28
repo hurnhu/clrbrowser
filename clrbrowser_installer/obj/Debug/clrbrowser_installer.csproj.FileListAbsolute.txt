@@ -1,0 +1,9 @@
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\app.manifest
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\clrbrowser_installer.exe.config
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\clrbrowser_installer.exe
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\bin\Debug\clrbrowser_installer.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\obj\Debug\clrbrowser_installer.Form1.resources
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\obj\Debug\clrbrowser_installer.Properties.Resources.resources
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\obj\Debug\clrbrowser_installer.csproj.GenerateResource.Cache
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\obj\Debug\clrbrowser_installer.exe
+C:\Users\Mike\documents\visual studio 2013\Projects\nightdev\nightdev\obj\Debug\clrbrowser_installer.pdb
